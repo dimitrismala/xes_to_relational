@@ -1,0 +1,7 @@
+# ignore all .xes files
+*.xes
+# ignore python virtual environment
+venv/
+.venv/
+
+.idea
