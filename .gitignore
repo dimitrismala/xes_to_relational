@@ -5,3 +5,5 @@ venv/
 .venv/
 
 .idea
+
+!BPI_Challenge_2018_test.xes
